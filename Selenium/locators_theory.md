@@ -18,4 +18,4 @@ Locators are used to find elements on a web page.
 ---
 
 ## 📄 Practical Example
-See: [Locators Practical](./locators_practical.java)
+See: [Locators Practical](./locators_practical.md)
