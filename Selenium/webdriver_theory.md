@@ -14,4 +14,4 @@ Selenium WebDriver is the **core** of Selenium that allows us to automate web br
 ---
 
 ## 📄 Practical Example
-See: [WebDriver Practical](./webdriver_practical.java)
+See: [WebDriver Practical](./webdriver_practical.md)
