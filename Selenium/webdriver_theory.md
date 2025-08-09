@@ -6,14 +6,12 @@ Selenium WebDriver is the **core** of Selenium that allows us to automate web br
 ---
 
 ## Key Points
-- It interacts directly with the browser without the need for an intermediate server (unlike Selenium RC).
-- Supports multiple browsers like Chrome, Firefox, Edge, Safari.
-- Compatible with multiple programming languages like Java, Python, C#.
-- Can handle dynamic web pages and multiple browser tabs.
+- Interacts directly with the browser.
+- Supports Chrome, Firefox, Edge, Safari.
+- Works with multiple programming languages.
+- Handles dynamic content and multiple browser tabs.
 
 ---
 
-## Advantages
-- Fast execution compared to older Selenium versions.
-- Cross-browser compatibility.
-- Works on different operating systems.
+## 📄 Practical Example
+See: [WebDriver Practical](./webdriver_practical.java)
