@@ -4,10 +4,12 @@ Synchronization in Selenium ensures tests wait for elements or events before pro
 
 ---
 
-## Types
-1. **Implicit Wait** – Waits for elements to appear for a set time
-2. **Explicit Wait** – Waits for a condition to be true
-3. **Fluent Wait** – Checks periodically until a condition is met
+## Types of Wait
+1. **Implicit Wait** – The driver waits for a specific duration to make sure all the elements are loaded within DOM. The default time is 0 sec  , if the element is not found it throws NoSuchElementException.
+2. **Explicit Wait** – The driver waits for a specific DOM element for a specific duration under a given condition. Incased driver is not able to find the element the driver throws NoSuchElementException.
+3. **Fluent Wait** – It is an explicit wait but more flexible . It has a polling rate(frequency) .It waits for a specific element for a specific duration under a specific condition
+
+**Note** In industry Explicite wait is more commonly used than Fluent wait.
 
 ---
 
