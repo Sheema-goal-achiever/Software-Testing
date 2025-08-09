@@ -24,4 +24,4 @@ TestNG is a testing framework for Java inspired by JUnit and NUnit but with more
 ---
 
 ## 📄 Practical Example
-See: [TestNG Practical](./testng_practical.java)
+See: [TestNG Practical](./testng_practical.md)
