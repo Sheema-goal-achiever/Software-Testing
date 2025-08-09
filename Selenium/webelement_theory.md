@@ -12,4 +12,4 @@ A WebElement represents an HTML element on a web page, such as buttons, input fi
 ---
 
 ## 📄 Practical Example
-See: [WebElement Practical](./webelement_practical.java)
+See: [WebElement Practical](./webelement_practical.md)
